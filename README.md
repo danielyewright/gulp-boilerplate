@@ -29,7 +29,7 @@ The gulpfile has the following tasks:
 - `clean:prod`
 - `zip`
 
-Use `gulp` to run the default task and navigation to `http://localhost:3000` to view the project. As you modify files, the browser will automatically refrest to reflect the changes.
+Use `gulp` to run the default task and navigate to [http://localhost:3000](http://localhost:3000) to view the project. As you modify files, the browser will automatically refrest to reflect the changes.
 
 To build the project and see what it would look like pre-production, run `gulp build:dev`. This will create a directory named `dist/dev` where you can test the project.
 
