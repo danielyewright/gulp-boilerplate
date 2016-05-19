@@ -14,7 +14,7 @@ Install dependencies:
 npm install
 ```
 
-Run the tasks:
+Run the default task:
 ```
 gulp
 ```
