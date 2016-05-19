@@ -35,4 +35,4 @@ To build the project and see what it would look like pre-production, run `gulp b
 
 If all the files are present in the `dev` folder and the project is ready for production, you can run `gulp build:prod`. This will use all the files in the `dev` folder, delete any hidden/unwanted files, and create a zip file ready for distribution.
 
-**NOTE: If you've already run the `build:dev` task, when running `gulp` it will delete the entire `dist` directory. You'll have to run the build:dev task again to generate the files.**
+**NOTE: If you've already run the `build:dev` task, when running `gulp` it will delete the entire `dist` directory. You'll have to run the `build:dev` task again to generate the files.**
